@@ -1,0 +1,58 @@
+----- what I have -----
+Skutt model: 231/240 sn: 17886
+2W 240 1ph 46.8amp 11250W
+2300°F Cone 8
+
+Sutt model: 1018-24, sn: 5237-10
+2W-240V 1ph 38.5amp 925W
+2300°F Cone 8
+w/blank ring 2100°F Cone 1
+
+measured elements:
+installed:
+.045" Ω: 29, 29
+.062" Ω: 30,30,25,20
+
+loose:
+.045: Ω: 32.5
+.062" Ω: 18.5,22.5,26.5,27,28
+
+----- element equivelent from Skutt -----
+
+Skutt KM1027, 2W 240, 11520W, 46.8amp
+diameter: 23.65"
+height:   27"
+Volume:  6.86 cubic feet
+surface area: 2886 sq inch
+4 - 32.6 Ω center
+2 - 23.3 Ω top & bottom
+calculated wattage: 4*1766 + 2*2472 = 12624W
+
+----------------------------
+https://www.temcoindustrialpower.com $53/lb
+https://www.euclids.com/ $42/lb
+
+Sandvik/Kanthal A-1 (Hoskins Alloy 875) resistance wire 1400°C
+awg  dia    d-mm    ohms/ft ft/lb
+16  .0508" 1.29032  0.324   159   
+18  .0403" 1.02362  0.515   253
+20  .0320" 0.81280  0.817   401
+
+calculated element builds:
+  Center 32.6: 240V, 7.36amp, 1766W
+  16awg, 100.67', 72" unstreatched,(12.6',s~2), 103'w/ends, .65 lbs
+
+  Top & Bottom 23.3: 240V, 10.3amp, 2472W
+  16awg, 72', 52" unstretched,(12.6',s~3), 75' w/ends, .47 lbs
+
+  6 elements 2-2472W & 4-1766W = 562'
+  562' * 1lb/159' * $42/1lb = $150
+
+s=(2 to 3)
+12.6'/2 = 6.3' = 74"
+12.6'/3 = 4.2' = 50" 
+
+A1-240-7.36-16/4
+A1-240-10.3-16/4
+material-V-Amps-AWG/ID X/16"
+
