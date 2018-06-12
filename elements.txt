@@ -8,7 +8,7 @@ Sutt model: 1018-24, sn: 5237-10
 2300°F Cone 8
 w/blank ring 2100°F Cone 1
 
-measured elements:
+measured elements: 152" installed length
 installed:
 .045" Ω: 29, 29
 .062" Ω: 30,30,25,20
@@ -19,40 +19,45 @@ loose:
 
 ----- element equivelent from Skutt -----
 
-Skutt KM1027, 2W 240, 11520W, 46.8amp
+Skutt KM1027, 2W 240, 11520W, 48.6amp
 diameter: 23.65"
 height:   27"
 Volume:  6.86 cubic feet
 surface area: 2886 sq inch
 4 - 32.6 Ω center
 2 - 23.3 Ω top & bottom
-calculated wattage: 4*1766 + 2*2472 = 12624W
 
+Calculated values from element resistance:
+Resistance = 1/(4/32.6 + 2/23.3) = 4.7953 Ω
+Watts      = 240^2 / 4.8 = 12000
+Ampers     = 50
 ----------------------------
 
 Sandvik/Kanthal A-1 (Hoskins Alloy 875) resistance wire 1400°C
 https://www.temcoindustrialpower.com $53/lb
-awg  dia    d-mm    ohms/ft ft/lb
-16  .0508" 1.29032  0.324   159   
-18  .0403" 1.02362  0.515   253
-20  .0320" 0.81280  0.817   401
+awg   dia    d-mm    ohms/ft ft/lb
+t16  .0508" 1.29032  0.324   159   
+t18  .0403" 1.02362  0.515   253
+t20  .0320" 0.81280  0.817   401
 
 https://www.euclids.com/ $42/lb
-awg  dia    d-mm    ohms/ft ft/lb
-14  .0641"          .2131   100.9  
-15  .0571"          .2687   127.3
-16  .0508"          .3388   160.5
-17  .0453"          .4272   202.4
-18  .0403"          .5387   255.2
+awg   dia    d-mm    ohms/ft ft/lb
+e14  .0641"          .2131   100.9  
+e15  .0571"          .2687   127.3
+e16  .0508"          .3388   160.5
+e17  .0453"          .4272   202.4
+e18  .0403"          .5387   255.2
 
 
 calculated element builds:
   Center 32.6: 240V, 7.36amp, 1766W
-  16awg, 100.67', 72" unstreatched,(12.6',s~2), 103'w/ends, .65 lbs
-
+  t16awg, 100.67', 72" unstreatched,(12.6',s~2), 103.5' w/ends, .65 lb
+  e16awg,  96.27', 69" unstreatched,(12.6',s~2),  99'   w/ends, .60 lb
+  
   Top & Bottom 23.3: 240V, 10.3amp, 2472W
-  16awg, 72', 52" unstretched,(12.6',s~3), 75' w/ends, .47 lbs
-
+  t16awg, 71.92', 51" unstretched,(12.6',s~3), 74.6' w/ends, .47 lb
+  e16awg, 68.78', 49" unstretched,(12.6',s~3), 71.5' w/ends. .43 lb
+  e15awg, 86.72', 73" unstretched,(12.6',s~2), 89.4' w/ends. .71 lb
   6 elements 2-2472W & 4-1766W = 562'
   562' * 1lb/159' * $42/1lb = $150
 
