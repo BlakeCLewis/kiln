@@ -29,14 +29,22 @@ surface area: 2886 sq inch
 calculated wattage: 4*1766 + 2*2472 = 12624W
 
 ----------------------------
-https://www.temcoindustrialpower.com $53/lb
-https://www.euclids.com/ $42/lb
 
 Sandvik/Kanthal A-1 (Hoskins Alloy 875) resistance wire 1400°C
+https://www.temcoindustrialpower.com $53/lb
 awg  dia    d-mm    ohms/ft ft/lb
 16  .0508" 1.29032  0.324   159   
 18  .0403" 1.02362  0.515   253
 20  .0320" 0.81280  0.817   401
+
+https://www.euclids.com/ $42/lb
+awg  dia    d-mm    ohms/ft ft/lb
+14  .0641"          .2131   100.9  
+15  .0571"          .2687   127.3
+16  .0508"          .3388   160.5
+17  .0453"          .4272   202.4
+18  .0403"          .5387   255.2
+
 
 calculated element builds:
   Center 32.6: 240V, 7.36amp, 1766W
