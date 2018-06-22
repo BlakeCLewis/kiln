@@ -1,0 +1,36 @@
+3 - K type thermocouples $7/each
+  red    - magnetic
+  yellow + not magnetic
+  215mm/8.5"
+  3.2mm wire dia
+  insulation 162mm/6.3", 6 1" pieces
+  insulator and terminal blocks
+
+3 - max31850 from adafruit $16/each
+  k-type only
+  1-wire data
+
+5 - K Type Mini-Connector Thermocouple Temperature Probe Sensor Measure Range -50~700°C
+    for the wire $13.66
+
+6 - ceramic terminal blocks 2x2 $15.62
+
+6 - Anndason Toggle Latch Clamp 4001 ,100Kg 220Lbs Holding Capacity $13
+   to clamp kiln section together
+
+20 - element cord clamps
+  Cable Gland - Lokman 20 Pack PG13.5 Plastic Waterproof Adjustable 
+  6-12 mmCable Glands Joints With Gasket $10
+
+6 - power cord cable clamps 6-2/8-1
+  YXQ PG29 Waterproof Cable Gland Joints Adjustable Lock Nut Connector
+  18-24mm Cable  $6.50
+
+4 - Uxcell a16030800ux0310
+  12 Position Dual Row Strip Barrier Terminal Block Connector
+  380V, 30 Amp   $13.66
+
+9 SSR-40DA Solid State Relay Single Phase
+   Input 3-32V DC Output 24-380V AC  $15
+
+
