@@ -1,0 +1,71 @@
+2% bentonite to help stay on during pot shrikage
+
+iron oxide slip, or scraffito
+  75% clay (red) or same as body
+  12% synthetic red iron oxide
+
+porcelin white slip
+  15% feldspar
+
+semi white (clear to milk, based on temp and thinness)
+  weights         lbs/oz
+  feldspar potash   3/14   30.0%
+  whiting           1/14   14.4% (calcium carbonate)
+  talc              1/2     8.5%
+  china clay        2/2    16.3% (EPK)
+  quartz/silca      4/0    30.7%
+  --------------------
+  red iron oxide    0/4     2.0% to make celadon
+
+thick milky brown/yellow/white/grey
+  50% red clay
+  50% wood ash washed
+
+
+greg clear (apply thin)
+  feldspar 81.0%
+  woodash   6.5%
+  kaolin   12.5%
+
+Leach PB Clear
+  flint     4/0  30%
+  kaolin    2/12 19.8%
+  feldspar  3/14 28.5%
+  whiting   1/14 13.8%
+  talc      1/2  08.2%
+  --------------------
+  bentonite 2% for raw
+
+Miss Newton's Temmoku (oil spot affect in oxidation)
+  feldspar        5/6   43%
+  china clay      1/8   12%
+  whiting         1/12  14%
+  flint           2/8   20%
+  red iron oxide  1/2    9%
+  zinc oxide      0/4    2%
+
+
+SL raw fire
+hr
+0    <200F
+1     200F 200/hr    3.34F/min
+7    1400F 33/hr     0.56F/min
+10   1500F           5.00F/min
+11   1800F hold      0.0 F/min
+12   1800F 100/hr    1.67F/min
+14.5 2060F reduction 1.6F/min
+17   2300F pyro      clean up environment and close up
+
+
+ox until 012-010
+moderate reductiono until 08-06
+20-40min neutral until 9
+redution until 10
+5 min ox clear atm
+close
+
+
+reduction:
+  reduce flue then lean flame
+  reduce pressure until all holes reaching equally
+  

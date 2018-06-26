@@ -33,4 +33,17 @@
 9 SSR-40DA Solid State Relay Single Phase
    Input 3-32V DC Output 24-380V AC  $15
 
+#5 welding lens to look into chamber
 
+kiln wash
+  50% EPK (alec/john britt half fired, no crack)
+  50% Alumina Hydrate
+  1-2% g200 feldspar
+
+shelves:
+8 - 12 x 25 x 0.75
+5 - 11 x 29 x 0.5
+3 - 11 x 21 x 0.5
+1 - 11 x 18 x 0.5
+1 - 11 x 15 x 0.5
+10- scrap 8-10 x 12-14
