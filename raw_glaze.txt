@@ -44,6 +44,15 @@ Miss Newton's Temmoku (oil spot affect in oxidation)
   red iron oxide  1/2    9%
   zinc oxide      0/4    2%
 
+Spotted Shino cone 10
+  Nepheline Syenite: 40.00 Grams (type of feldspar)
+  Spodumene:         30.00 Grams
+  OM-4 (Ball Clay):  17.00 Grams
+  Soda Ash:           8.00 Grams
+  EPK Kaolin:         5.00 Grams
+  Bentonite:          2.00 Grams
+  Total:            102.00 Grams
+
 
 SL raw fire
 hr
