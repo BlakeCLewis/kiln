@@ -65,7 +65,14 @@ s=(2 to 3)
 12.6'/2 = 6.3' = 74"
 12.6'/3 = 4.2' = 50" 
 
-A1-240-7.36-16/4
-A1-240-10.3-16/4
-material-V-Amps-AWG/ID X/16"
+TA1-240-7.36-16/4
+EA1-240-10.3-16/4
+VendorMaterial-V-Amps-AWG/ID X/16"
 
+
+http://www.duralite.com/
+custom elements
+$32 each $192 for the set
+
+wire chart
+http://www.duralite.com/store/Prodimages/Resistance%20Wire%20Specifications%202009.pdf
