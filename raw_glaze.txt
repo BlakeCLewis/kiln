@@ -77,4 +77,27 @@ close
 reduction:
   reduce flue then lean flame
   reduce pressure until all holes reaching equally
-  
+
+
+
+
+
+Gun Metal (David Leach)
+EPK             30
+feldspar        25
+whiting         25
+quartz          25
+------
+colbalt        125
+red iron oxide   8
+maganese oxide   3
+
+1270 reduction Celedon (David Leach) (cone 8?)
+feldspar        25
+(cornish stone)
+EPK             25
+whiting         25
+quartz          25
+------
+red iron oxide   2%
+or .5% real light and looks nice on porcelin
