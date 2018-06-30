@@ -69,10 +69,22 @@ TA1-240-7.36-16/4
 EA1-240-10.3-16/4
 VendorMaterial-V-Amps-AWG/ID X/16"
 
-
 http://www.duralite.com/
 custom elements
 $32 each $192 for the set
 
 wire chart
 http://www.duralite.com/store/Prodimages/Resistance%20Wire%20Specifications%202009.pdf
+
+km1227
+outside circumference/π=od
+od-4.5=ed
+2*ed*π=element length
+
+(12*9"/π-4.5)=29.5"
+2*29.5*π=188" element length
+
+make a KM1027 26.3 ohm element from KM1229 32.6 ohm element is almost a length proportional cut
+
+top/bot elements are larger diameter
+
