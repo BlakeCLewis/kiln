@@ -8,9 +8,16 @@
   85% porcelain
   15% feldspar
 
---blue slip (Ingalton pottery)
+--blue slip (Ingleton pottery)
    8 liters slip sieved
   16 oz cobalt catbonate mixed with water sieve into slip
+
+-- black slip (https://apottersjournal.wordpress.com/2013/06/02/black-slip-recipe/)
+   slight vlue tone
+  100% ball clay
+   13% red iron oxide
+   10% manganese dioxide
+    3% colbalt carbonate
 
 --Semi white (clear to milk, based on temp and thinness)
   weights         lbs/oz
@@ -41,7 +48,7 @@
   --------------------
   bentonite 2% for raw
 
---Miss Newton's Temmoku (oil spot affect in oxidation)
+--Miss Newton's Tenmoku (oil spot affect in oxidation)
   feldspar        5/6   43%
   china clay      1/8   12%
   whiting         1/12  14%
