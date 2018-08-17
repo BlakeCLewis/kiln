@@ -189,3 +189,20 @@ Rutile Ceramic                           1lb Bag    :   $7.32
 Copper Carbonate                         1lb Bag    :  $10.71
 Zinc Oxide 500                           5lb Bag    :  $14.80
 $800
+
+
+10R clear replaces pb clear
+Custer Feldspar      27.0
+EPK                  20.5
+Silica               26.5
+Wollastonite         23.5
+Zinc Oxide            2.5
+
+Rate (C) Temp (C) Hold (Min) Step 
+10         120      0         1 
+50         550      0         2
+100        980      0         3
+50        1300      0         4
+0         1300     30         5
+Freefall    30                6
+
