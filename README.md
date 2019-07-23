@@ -1,1 +1,1 @@
-# kiln project
+# pottery notes
